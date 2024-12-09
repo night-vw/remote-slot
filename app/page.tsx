@@ -177,7 +177,7 @@ const RemoteSlot: React.FC = () => {
       <header className="w-full bg-white shadow-md">
         <div className="container mx-auto px-4 py-4">
           <h1 className="text-2xl md:text-4xl font-bold text-center text-gray-800">
-            遠隔・ざ・ろっく
+            遠隔・ざ・ろっく！
           </h1>
         </div>
       </header>
